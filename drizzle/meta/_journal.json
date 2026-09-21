@@ -1,5 +1,27 @@
 {
   "version": "7",
   "dialect": "mysql",
-  "entries": []
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1789973170475,
+      "tag": "0000_lame_obadiah_stane",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1789973330981,
+      "tag": "0001_overconfident_the_spike",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1789973367178,
+      "tag": "0002_real_jane_foster",
+      "breakpoints": true
+    }
+  ]
 }
